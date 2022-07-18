@@ -1,0 +1,12 @@
+{
+  "name": "solidity-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "remix": "remixd -s /Users/honey/Desktop/solidity-practice --remix-ide https://remix.ethereum.org"
+  },
+  "author": "",
+  "license": "ISC"
+}
